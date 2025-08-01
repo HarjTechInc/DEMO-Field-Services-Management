@@ -4,7 +4,7 @@ This repository showcases a fully structured Field Service Management (FSM) solu
 
 ---
 
-## 📌 What This Repository Includes
+## What This Repository Includes
 
 - **Dataverse Tables** for:
   - Jobs
@@ -23,7 +23,7 @@ This repository showcases a fully structured Field Service Management (FSM) solu
 
 ---
 
-## 🛠️ How This Was Built
+## 🛠How This Was Built
 
 1. A detailed FSM scenario was described in natural language and submitted to **Plan Designer**.
 2. Plan Designer created a complete backend: Dataverse entities, schema, and relationships.
@@ -35,7 +35,7 @@ This repository showcases a fully structured Field Service Management (FSM) solu
 
 ---
 
-## ⚙️ Business Problems It Solves
+## Business Problems It Solves
 
 - Field technicians lack a unified scheduling tool  
 - Dispatchers rely on spreadsheets with no central CRM  
@@ -46,7 +46,7 @@ This solution fixes those gaps by creating a real-time, mobile-ready, unified jo
 
 ---
 
-## 🧠 Why Use Plan Designer?
+## Why Use Plan Designer?
 
 Plan Designer helps you skip weeks of data modeling by turning a business prompt into a structured backend. But the real magic happens after that — when experts like **HarjTech** convert that base into real working apps, integrations, governance rules, and usable UI.
 
@@ -57,7 +57,7 @@ Plan Designer helps you skip weeks of data modeling by turning a business prompt
 
 ---
 
-## 👨‍💻 Developed by HarjTech Inc.
+## Developed by HarjTech Inc.
 
 HarjTech is a Microsoft-first consultancy that helps teams design, build, and scale solutions across:
 
@@ -66,12 +66,12 @@ HarjTech is a Microsoft-first consultancy that helps teams design, build, and sc
 - Azure Functions, Logic Apps, and enterprise API integrations
 - Productized services and full custom development
 
-📎 Visit us at [www.harjtech.com](https://www.harjtech.com)  
-📂 Explore our other solutions: [HarjTech GitHub](https://github.com/HarjTechInc)
+Visit us at [www.harjtech.com](https://www.harjtech.com)  
+Explore our other solutions: [HarjTech GitHub](https://github.com/HarjTechInc)
 
 ---
 
-## 📄 Copyright & Licensing
+## Copyright & Licensing
 
 This demo and all associated architecture were created and are © 2025 **HarjTech Inc.**  
 All rights reserved.  
